@@ -1,0 +1,9 @@
+Modèle relationnel de donné :
+
+Cours (diaporama)
+Les dépendances fonctionnelles
+Identifiant
+Matrice des dépendances fonctionnelles • Les relations
+Les formes normales 
+
+2 Exercices
