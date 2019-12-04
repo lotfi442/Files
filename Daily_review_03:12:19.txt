@@ -1,0 +1,3 @@
+Daily_review_03/12/19Workbench :
+Modélisation relationnel d'une base de donnée.
+Introduction au fonction iteratif python.
