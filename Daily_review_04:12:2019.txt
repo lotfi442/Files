@@ -1,0 +1,5 @@
+Installation python(linux, unbutu,mac os) --> interpretation
+
+Docker --> multiple fonctions "conteneur" , Hub 
+Lien pour plus d'informations:
+https://putaindecode.io/articles/introduction-a-docker/
