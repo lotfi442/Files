@@ -1,0 +1,4 @@
+SQL :
+-Téléchargement d’une base de donnée : SAKILA
+-Créer la base de donnée sur workbench à l’aide du script téléchargé
+-Interroger une base de donnée
