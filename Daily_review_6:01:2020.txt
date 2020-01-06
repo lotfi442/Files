@@ -1,0 +1,5 @@
+Lundi 6 Janvier 2020 
+
+* Attributions de droits avec les differentes commandes : Grant.
+* Correction de l’exercice
+* Création de tables en Sql
