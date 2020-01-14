@@ -1,0 +1,4 @@
+Daily review 13 Janvier 2020
+
+Import csv sous format de script en python
+Veille sur l’indexation 
