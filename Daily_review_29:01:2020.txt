@@ -1,0 +1,1 @@
+Daily Review 29 Janvier 2020Veille sur Solo learnBootcamp : Python , instruction, type de données , fonctions, structuresconditionnelles, boucle solo learn , livrable : Les trois modules completer de solo learn.Sql , requetesimples , filtres, fonctions, jointures, completer les modulesVeille sur snakify
